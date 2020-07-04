@@ -1,2 +1,3 @@
 # a_simple_QA_system
-本项目的目标是搭建一个基于检索式的简易的问答系统，这是一个最经典的方法也是最有效的方法。
+---
+The goal of this project is to build a simple question-and-answer system, which is the most classic method and the most effective method.
