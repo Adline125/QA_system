@@ -1,6 +1,4 @@
 # QA system
----
-
 This repository is for QA system related techs and aiming to construct an advanced QA system. 
 
 ## QA system based on Information retrieval
